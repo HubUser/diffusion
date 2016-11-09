@@ -11,13 +11,14 @@ set (SOURCES main.cpp
 project (${PROJECT} C CXX Fortran)
 include (CMakeAddFortranSubdirectory)
 include(FortranCInterface)
-find_package(PythonLibs)
+#find_package(PythonLibs)
 find_package(Boost)
 FortranCInterface_HEADER(FC.h MACRO_NAMESPACE FC_ SYMBOLS localdtet2dst alpha)
 #set (CMAKE_BUILD_TYPE Debug) 
 set (CMAKE_BUILD_TYPE Release) 
 
-include_directories (${PYTHON_INCLUDE_DIRS} ${Boost_INCLUDE_DIRS})
+include_directories (${Boost_INCLUDE_DIRS})
+#include_directories (${PYTHON_INCLUDE_DIRS} ${Boost_INCLUDE_DIRS})
 #include_directories (${PYTHON_INCLUDE_DIRS})
 
 #link_directories (${CMAKE_PREFIX_PATH}/src/plugins/platforms/xcb/xcb-static)
