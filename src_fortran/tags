@@ -1,0 +1,383 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+1	SF24R.FOR	/^    1 Q3=X2*Q2-Q1+A(I)$/;"	l	function:SF24R	file:
+1	SF25R.FOR	/^    1 CONTINUE$/;"	l	function:SF25R	file:
+1	SF33R.FOR	/^    1 IERR=67$/;"	l	subroutine:SF33R	file:
+1	SF34R.FOR	/^    1 T=ABS(X)$/;"	l	function:ERF	file:
+1	ZP10R.FOR	/^    1 CONTINUE$/;"	l	subroutine:ZP10R	file:
+1	ZP14C.FOR	/^    1 IF(CR.NE.ZERO.OR.CI.NE.ZERO) GO TO 2$/;"	l	subroutine:ZP14C	file:
+1	ZP14R.FOR	/^    1 IF(C0.NE.ZERO) GO TO 2$/;"	l	subroutine:ZP14R	file:
+1	tbessj_f90.FOR	/^    1 BESSJ0 = 1.D0$/;"	l	function:BESSJ0	file:
+10	SF33R.FOR	/^   10 CONTINUE$/;"	l	subroutine:SF33R	file:
+10	UTSF10.FOR	/^   10 PRINT 101$/;"	l	subroutine:UTSF10	file:
+10	ZP10R.FOR	/^   10 N=N-1$/;"	l	subroutine:ZP10R	file:
+10	specfun.FOR	/^   10 continue$/;"	l	subroutine:machar	file:
+10	tbessj_f90.FOR	/^   10 format (\/' Bessel Function of order ',I2,' for X=',F8.4,':')$/;"	l	program:TBESSJ	file:
+100	specfun.FOR	/^  100           continue$/;"	l	subroutine:rjbesl	file:
+100	specfun.FOR	/^  100       continue$/;"	l	subroutine:rkbesl	file:
+100	specfun.FOR	/^  100     continue$/;"	l	subroutine:rybesl	file:
+100	specfun.FOR	/^  100 continue$/;"	l	function:r8_psi	file:
+100	specfun.FOR	/^  100 continue$/;"	l	subroutine:machar	file:
+101	UTSF10.FOR	/^  101 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY ”YHK–ˆŸ SF10R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+102	UTSF10.FOR	/^  102 FORMAT(' N 1 - YC‹OBHOE —ˆC‹O L HE PABHO 1 ˆ HE PABHO 2.',$/;"	l	subroutine:UTSF10	file:
+103	UTSF10.FOR	/^  103 FORMAT(' N 2 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E ˆ‹ˆ PABHO 0.',$/;"	l	subroutine:UTSF10	file:
+104	UTSF10.FOR	/^  104 FORMAT(' N 3 - ‡HA—EHˆE APƒYMEHTA O‹œ˜E 43,39.',$/;"	l	subroutine:UTSF10	file:
+105	UTSF10.FOR	/^  105 PRINT102$/;"	l	subroutine:UTSF10	file:
+106	UTSF10.FOR	/^  106 PRINT 103$/;"	l	subroutine:UTSF10	file:
+107	UTSF10.FOR	/^  107 PRINT 104$/;"	l	subroutine:UTSF10	file:
+11	SF33R.FOR	/^   11 GO TO 25$/;"	l	subroutine:SF33R	file:
+11	UTSF10.FOR	/^   11 PRINT 111$/;"	l	subroutine:UTSF10	file:
+11	ZP10R.FOR	/^   11 NP1=N+1$/;"	l	subroutine:ZP10R	file:
+11	tbessj_f90.FOR	/^   11 CONTINUE$/;"	l	function:BESSJ	file:
+110	specfun.FOR	/^  110     continue$/;"	l	subroutine:ribesl	file:
+111	UTSF10.FOR	/^  111 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY ”YHK–ˆŸ SF11R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+112	UTSF10.FOR	/^  112 FORMAT(' N 3 - ‡HA—EHˆE APƒYMEHTA O‹œ˜E 44.36.',$/;"	l	subroutine:UTSF10	file:
+115	UTSF10.FOR	/^  115 PRINT 112$/;"	l	subroutine:UTSF10	file:
+12	SF33R.FOR	/^   12 R1=0.5*X$/;"	l	subroutine:SF33R	file:
+12	ZP10R.FOR	/^   12 CONTINUE$/;"	l	subroutine:ZP10R	file:
+12	tbessj_f90.FOR	/^   12 CONTINUE$/;"	l	function:BESSJ	file:
+120	specfun.FOR	/^  120     continue$/;"	l	subroutine:ribesl	file:
+13	SF33R.FOR	/^   13 CONTINUE$/;"	l	subroutine:SF33R	file:
+13	UTSF10.FOR	/^   13 IF (IERR .NE. 1) GOTO 135$/;"	l	subroutine:UTSF10	file:
+13	ZP10R.FOR	/^   13 ROOT(1)=CMPLX(-DA(2)\/DA(1),ZERO)$/;"	l	subroutine:ZP10R	file:
+131	UTSF10.FOR	/^  131 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY,”YHK–ˆŸ SF13R:HE”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+132	UTSF10.FOR	/^  132 FORMAT(' N 1 - APƒYMEHT ‡A„AH OTPˆ–ATE‹œH›M ‡HA—EHˆEM „‹Ÿ'\/$/;"	l	subroutine:UTSF10	file:
+135	UTSF10.FOR	/^  135 I=IERR-65$/;"	l	subroutine:UTSF10	file:
+136	UTSF10.FOR	/^  136 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY,”YHK–ˆŸ SF13R:”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+137	UTSF10.FOR	/^  137 PRINT 1392$/;"	l	subroutine:UTSF10	file:
+138	UTSF10.FOR	/^  138 PRINT 1393$/;"	l	subroutine:UTSF10	file:
+139	UTSF10.FOR	/^  139 PRINT 1394$/;"	l	subroutine:UTSF10	file:
+1391	UTSF10.FOR	/^ 1391 PRINT 1395$/;"	l	subroutine:UTSF10	file:
+1392	UTSF10.FOR	/^ 1392 FORMAT(' N 2 - ‡HA—EHˆE L MEHœ˜E 1 ˆ‹ˆ O‹œ˜E 3.'\/$/;"	l	subroutine:UTSF10	file:
+1393	UTSF10.FOR	/^ 1393 FORMAT(' N 3 - ‡HA—EHˆE APƒYMEHTA PABHO 0.‡HA—EHˆE SF13R O‹O†E',$/;"	l	subroutine:UTSF10	file:
+1394	UTSF10.FOR	/^ 1394 FORMAT(' N 4 - Pˆ L=1 ‡HA—EHˆE APƒYMEHTA PEBOCXO„ˆT MAKCˆMA‹œ',$/;"	l	subroutine:UTSF10	file:
+1395	UTSF10.FOR	/^ 1395 FORMAT(' N 5 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E -4.118E01 Pˆ L=1 ˆ‹ˆ ',$/;"	l	subroutine:UTSF10	file:
+14	SF33R.FOR	/^   14 R1=0.125\/X$/;"	l	subroutine:SF33R	file:
+14	UTSF10.FOR	/^   14 PRINT141$/;"	l	subroutine:UTSF10	file:
+14	ZP10R.FOR	/^   14 CALL ZP14R(DA(1),DA(2),DA(3),ROOT(2),ROOT(1),IIER)$/;"	l	subroutine:ZP10R	file:
+140	specfun.FOR	/^  140     continue$/;"	l	subroutine:rjbesl	file:
+141	UTSF10.FOR	/^  141 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY ”YHK–ˆŸ SF14R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+142	UTSF10.FOR	/^  142 PRINT 147$/;"	l	subroutine:UTSF10	file:
+143	UTSF10.FOR	/^  143 PRINT148$/;"	l	subroutine:UTSF10	file:
+144	UTSF10.FOR	/^  144 PRINT 149$/;"	l	subroutine:UTSF10	file:
+145	UTSF10.FOR	/^  145 PRINT 1490$/;"	l	subroutine:UTSF10	file:
+146	UTSF10.FOR	/^  146 PRINT 1491$/;"	l	subroutine:UTSF10	file:
+147	UTSF10.FOR	/^  147 FORMAT(' N 1 - ‡HA—EHˆE L MEHœ˜E 1 ˆ‹ˆ O‹œ˜E 3.',$/;"	l	subroutine:UTSF10	file:
+148	UTSF10.FOR	/^  148 FORMAT(' N 2 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E 0 Pˆ L=1.',$/;"	l	subroutine:UTSF10	file:
+149	UTSF10.FOR	/^  149 FORMAT(' N 3 - ‡HA—EHˆE APƒYMEHTA O‹œ˜E ˆ‹ˆ PABHO 1',$/;"	l	subroutine:UTSF10	file:
+1490	UTSF10.FOR	/^ 1490 FORMAT(' N 4 - ‡HA—EHˆE APƒYMEHTA O‹œ˜E 1 Pˆ L=3.',$/;"	l	subroutine:UTSF10	file:
+1491	UTSF10.FOR	/^ 1491 FORMAT(' N 5 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E ˆ‹ˆ PABHO 0 Pˆ L=3.'\/$/;"	l	subroutine:UTSF10	file:
+15	SF33R.FOR	/^   15 CONTINUE$/;"	l	subroutine:SF33R	file:
+15	UTSF10.FOR	/^   15 PRINT 151$/;"	l	subroutine:UTSF10	file:
+15	ZP10R.FOR	/^   15 IF(DA(NP1).NE.ZERO) GO TO LSW,(16,19)$/;"	l	subroutine:ZP10R	file:
+150	specfun.FOR	/^  150 continue$/;"	l	function:r8_psi	file:
+150	specfun.FOR	/^150         continue$/;"	l	subroutine:ribesl	file:
+151	UTSF10.FOR	/^  151 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY ”YHK–ˆŸ SF15R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+152	UTSF10.FOR	/^  152 PRINT 153$/;"	l	subroutine:UTSF10	file:
+153	UTSF10.FOR	/^  153 FORMAT(' N 3 - ‡HA—EHˆE APƒYMEHTA O‹œ˜E 1 Pˆ L=1,2,3.',$/;"	l	subroutine:UTSF10	file:
+16	SF33R.FOR	/^   16 R1=2.E0\/X$/;"	l	subroutine:SF33R	file:
+16	UTSF10.FOR	/^   16 IF (IERR .NE. 1) GO TO 161$/;"	l	subroutine:UTSF10	file:
+16	ZP10R.FOR	/^   16 CONTINUE$/;"	l	subroutine:ZP10R	file:
+161	UTSF10.FOR	/^  161 PRINT 165$/;"	l	subroutine:UTSF10	file:
+164	UTSF10.FOR	/^  164 FORMAT (' N 1 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E 0.'\/$/;"	l	subroutine:UTSF10	file:
+165	UTSF10.FOR	/^  165 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY,O„POƒPAMMA SF16R:',$/;"	l	subroutine:UTSF10	file:
+166	UTSF10.FOR	/^  166 FORMAT(' N 2 - ACO‹THOE ‡HA—EHˆE APƒYMEHTA O‹œ˜E 57.58.',$/;"	l	subroutine:UTSF10	file:
+17	SF33R.FOR	/^   17 CONTINUE$/;"	l	subroutine:SF33R	file:
+17	UTSF10.FOR	/^   17 IF (IERR .NE. 1) GOTO 171$/;"	l	subroutine:UTSF10	file:
+17	ZP10R.FOR	/^   17 T=ABS(DA(1))$/;"	l	subroutine:ZP10R	file:
+171	UTSF10.FOR	/^  171 PRINT 175$/;"	l	subroutine:UTSF10	file:
+174	UTSF10.FOR	/^  174 FORMAT(' N 1 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E 0.'\/$/;"	l	subroutine:UTSF10	file:
+175	UTSF10.FOR	/^  175 FORMAT(' N 2 - ACO‹THOE ‡HA—EHˆE APƒYMEHTA O‹œ˜E 57.58.'\/$/;"	l	subroutine:UTSF10	file:
+18	SF33R.FOR	/^   18 CONTINUE$/;"	l	subroutine:SF33R	file:
+18	UTSF10.FOR	/^   18 IF (IERR .NE. 1) GO TO 181$/;"	l	subroutine:UTSF10	file:
+18	ZP10R.FOR	/^   18 CONTINUE$/;"	l	subroutine:ZP10R	file:
+181	UTSF10.FOR	/^  181 PRINT 185$/;"	l	subroutine:UTSF10	file:
+184	UTSF10.FOR	/^  184 FORMAT(' N 1 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E 0.'\/$/;"	l	subroutine:UTSF10	file:
+185	UTSF10.FOR	/^  185 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY,O„POƒPAMMA SF18R:',$/;"	l	subroutine:UTSF10	file:
+186	UTSF10.FOR	/^  186 FORMAT(' N 2 - ACO‹THOE ‡HA—EHˆE APƒYMEHTA O‹œ˜E 57.58.'\/$/;"	l	subroutine:UTSF10	file:
+187	specfun.FOR	/^  187     continue$/;"	l	subroutine:rkbesl	file:
+19	SF33R.FOR	/^   19 K=20$/;"	l	subroutine:SF33R	file:
+19	UTSF10.FOR	/^   19 PRINT 191$/;"	l	subroutine:UTSF10	file:
+19	ZP10R.FOR	/^   19 CONTINUE$/;"	l	subroutine:ZP10R	file:
+190	specfun.FOR	/^  190     continue$/;"	l	subroutine:rjbesl	file:
+191	UTSF10.FOR	/^  191 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY, ”YHK–ˆŸ SF19R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+192	UTSF10.FOR	/^  192 FORMAT(' N 1 - HEBEPHO ‡A„AH ”AKTˆ—ECKˆ‰ APAMETP RK2: 0<RK2<1'\/$/;"	l	subroutine:UTSF10	file:
+193	UTSF10.FOR	/^  193 FORMAT(' N 2 - HEBEPHO ‡A„AH ”AKTˆ—ECKˆ‰ APAMETP T: 0<T<1.5707',$/;"	l	subroutine:UTSF10	file:
+194	UTSF10.FOR	/^  194 FORMAT(' N 3 - Pˆ RK2=1 ˆ T=1.57079632679 ‡HAMEHATE‹œ ',$/;"	l	subroutine:UTSF10	file:
+195	UTSF10.FOR	/^  195 PRINT 192$/;"	l	subroutine:UTSF10	file:
+195	specfun.FOR	/^  195   continue$/;"	l	subroutine:rkbesl	file:
+196	UTSF10.FOR	/^  196 PRINT 193$/;"	l	subroutine:UTSF10	file:
+197	UTSF10.FOR	/^  197 PRINT 194$/;"	l	subroutine:UTSF10	file:
+2	SF24R.FOR	/^    2 SF24R=1.E0$/;"	l	function:SF24R	file:
+2	SF25R.FOR	/^    2 SF25R=0.$/;"	l	function:SF25R	file:
+2	SF33R.FOR	/^    2 NC1=MAX1(X+1.,3.)$/;"	l	subroutine:SF33R	file:
+2	SF34R.FOR	/^    2 ERF=SIGN(1.E0-S,X)$/;"	l	function:ERF	file:
+2	ZP10R.FOR	/^    2 CONTINUE$/;"	l	subroutine:ZP10R	file:
+2	ZP14C.FOR	/^    2 IS=(ALOG(AMAX1(ABS(AR),ABS(AI)))+ALOG(AMAX1(ABS(CR),$/;"	l	subroutine:ZP14C	file:
+2	ZP14R.FOR	/^    2 IS=(ALOG(ABS(A0))+ALOG(ABS(C0))+SYS065)\/(SYS065+$/;"	l	subroutine:ZP14R	file:
+20	SF33R.FOR	/^   20 K=NC2-1$/;"	l	subroutine:SF33R	file:
+20	ZP10R.FOR	/^   20 CONTINUE$/;"	l	subroutine:ZP10R	file:
+20	specfun.FOR	/^   20 continue$/;"	l	subroutine:machar	file:
+20	tbessj_f90.FOR	/^   20 format(\/'      Y = ',E15.8\/)$/;"	l	program:TBESSJ	file:
+200	UTSF10.FOR	/^  200 PRINT 201$/;"	l	subroutine:UTSF10	file:
+200	specfun.FOR	/^  200     continue$/;"	l	subroutine:rybesl	file:
+200	specfun.FOR	/^  200 continue$/;"	l	function:r8_psi	file:
+201	UTSF10.FOR	/^  201 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY, ”YHK–ˆŸ SF20R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+202	UTSF10.FOR	/^  202 PRINT192$/;"	l	subroutine:UTSF10	file:
+203	UTSF10.FOR	/^  203 PRINT 193$/;"	l	subroutine:UTSF10	file:
+21	SF33R.FOR	/^   21 Q1=.5*V-ALOG(R1)-SYS039$/;"	l	subroutine:SF33R	file:
+21	UTSF10.FOR	/^   21 PRINT 210$/;"	l	subroutine:UTSF10	file:
+21	ZP10R.FOR	/^   21 CONTINUE$/;"	l	subroutine:ZP10R	file:
+210	UTSF10.FOR	/^  210 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY,”YHK–ˆŸ SF21R: ”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+210	specfun.FOR	/^  210     continue$/;"	l	subroutine:rjbesl	file:
+210	specfun.FOR	/^  210 continue$/;"	l	subroutine:machar	file:
+211	UTSF10.FOR	/^  211 PRINT 213$/;"	l	subroutine:UTSF10	file:
+212	UTSF10.FOR	/^  212 PRINT 214$/;"	l	subroutine:UTSF10	file:
+213	UTSF10.FOR	/^  213 FORMAT(' N 1 - ƒAMMA-”YHK–ˆŸ HE OPE„E‹EHA Pˆ X PABHOM HY‹ ',$/;"	l	subroutine:UTSF10	file:
+214	UTSF10.FOR	/^  214 FORMAT(' N 2 - ‡HA—EHˆE APƒYMEHTA O‹œ˜E 21.43. ‡HA—EHˆE',$/;"	l	subroutine:UTSF10	file:
+22	SF33R.FOR	/^   22 CONTINUE$/;"	l	subroutine:SF33R	file:
+22	UTSF10.FOR	/^   22 PRINT 220$/;"	l	subroutine:UTSF10	file:
+22	ZP10R.FOR	/^   22 DZNR=DZ0R+ACL(1)$/;"	l	subroutine:ZP10R	file:
+220	UTSF10.FOR	/^  220 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY, ”YHK–ˆŸ SF22R:”ATA‹œHAŸ O˜ˆKA')$/;"	l	subroutine:UTSF10	file:
+220	specfun.FOR	/^  220     continue$/;"	l	subroutine:ribesl	file:
+220	specfun.FOR	/^  220     continue$/;"	l	subroutine:rybesl	file:
+221	UTSF10.FOR	/^  221 PRINT 223$/;"	l	subroutine:UTSF10	file:
+222	UTSF10.FOR	/^  222 FORMAT(' N 2 - ‡HA—EHˆE APƒYMEHTA MEHœ˜E -20.4',$/;"	l	subroutine:UTSF10	file:
+223	UTSF10.FOR	/^  223 FORMAT(' N 1 - TA-”YHK–ˆŸ HE OPE„E‹EHA Pˆ X, Y, ˆ X+Y ',$/;"	l	subroutine:UTSF10	file:
+224	UTSF10.FOR	/^  224 PRINT 222$/;"	l	subroutine:UTSF10	file:
+23	SF33R.FOR	/^   23 CONTINUE$/;"	l	subroutine:SF33R	file:
+23	UTSF10.FOR	/^   23 PRINT 230$/;"	l	subroutine:UTSF10	file:
+23	ZP10R.FOR	/^   23 CONTINUE$/;"	l	subroutine:ZP10R	file:
+230	UTSF10.FOR	/^  230 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY,O„',$/;"	l	subroutine:UTSF10	file:
+230	specfun.FOR	/^  230     continue$/;"	l	subroutine:ribesl	file:
+231	UTSF10.FOR	/^  231 PRINT 233$/;"	l	subroutine:UTSF10	file:
+232	UTSF10.FOR	/^  232 PRINT 234$/;"	l	subroutine:UTSF10	file:
+233	UTSF10.FOR	/^  233 FORMAT(' N 1 - BE™ECTBEHHAŸ —ACTœ ',$/;"	l	subroutine:UTSF10	file:
+234	UTSF10.FOR	/^  234 FORMAT(' N 2 - ƒAMMA-”YHK–ˆŸ ',$/;"	l	subroutine:UTSF10	file:
+24	SF33R.FOR	/^   24 CONTINUE$/;"	l	subroutine:SF33R	file:
+24	ZP10R.FOR	/^   24 DX2=DX$/;"	l	subroutine:ZP10R	file:
+240	specfun.FOR	/^  240     continue$/;"	l	subroutine:rjbesl	file:
+25	SF33R.FOR	/^   25 RETURN$/;"	l	subroutine:SF33R	file:
+25	ZP10R.FOR	/^   25 NLM=MAX0(N1,J)$/;"	l	subroutine:ZP10R	file:
+250	specfun.FOR	/^  250     continue$/;"	l	subroutine:rjbesl	file:
+26	SF33R.FOR	/^   26 IERR=65$/;"	l	subroutine:SF33R	file:
+26	ZP10R.FOR	/^   26 CONTINUE$/;"	l	subroutine:ZP10R	file:
+27	SF33R.FOR	/^   27 CALL UTSF10(IERR,33)$/;"	l	subroutine:SF33R	file:
+27	ZP10R.FOR	/^   27 DX=DX\/DSC$/;"	l	subroutine:ZP10R	file:
+28	SF33R.FOR	/^   28 IERR=66$/;"	l	subroutine:SF33R	file:
+28	UTSF10.FOR	/^   28 PRINT 281$/;"	l	subroutine:UTSF10	file:
+28	ZP10R.FOR	/^   28 DX2=DX$/;"	l	subroutine:ZP10R	file:
+281	UTSF10.FOR	/^  281 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY, ”YHK–ˆŸ SF28R: HE”ATA‹œHAŸ O˜ˆKA'\/$/;"	l	subroutine:UTSF10	file:
+282	UTSF10.FOR	/^  282 PRINT 283$/;"	l	subroutine:UTSF10	file:
+283	UTSF10.FOR	/^  283 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY, ”YHK–ˆŸ SF28R: ”ATA‹œHAŸ O˜ˆKA'\/$/;"	l	subroutine:UTSF10	file:
+29	UTSF10.FOR	/^   29 PRINT 291$/;"	l	subroutine:UTSF10	file:
+29	ZP10R.FOR	/^   29 NLM=MAX0(N1,J)$/;"	l	subroutine:ZP10R	file:
+291	UTSF10.FOR	/^  291 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY,”YHK–ˆŸ SF29R: HE”ATA‹œHAŸ O˜ˆKA'\/$/;"	l	subroutine:UTSF10	file:
+292	UTSF10.FOR	/^  292 PRINT 293$/;"	l	subroutine:UTSF10	file:
+293	UTSF10.FOR	/^  293 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY,”YHK–ˆŸ SF29R: ”ATA‹œHAŸ O˜ˆKA'\/$/;"	l	subroutine:UTSF10	file:
+3	SF24R.FOR	/^    3 Z=1.E0\/Z$/;"	l	function:SF24R	file:
+3	SF25R.FOR	/^    3 Z=1.\/Z$/;"	l	function:SF25R	file:
+3	SF33R.FOR	/^    3 N2=N$/;"	l	subroutine:SF33R	file:
+3	SF34R.FOR	/^    3 RETURN$/;"	l	function:ERF	file:
+3	ZP10R.FOR	/^    3 CONTINUE$/;"	l	subroutine:ZP10R	file:
+3	ZP14C.FOR	/^    3 BR=(BR\/SCALE)*HALF$/;"	l	subroutine:ZP14C	file:
+3	ZP14R.FOR	/^    3 B1=SIGN(S,B0)+B0$/;"	l	subroutine:ZP14R	file:
+30	ZP10R.FOR	/^   30 CONTINUE$/;"	l	subroutine:ZP10R	file:
+300	specfun.FOR	/^  300 continue$/;"	l	subroutine:calerf	file:
+300	specfun.FOR	/^  300 continue$/;"	l	subroutine:machar	file:
+31	UTSF10.FOR	/^   31 PRINT 311$/;"	l	subroutine:UTSF10	file:
+31	ZP10R.FOR	/^   31 CF=CMPLX(DZ(NLM),DZNI*DZ(NLM-1))$/;"	l	subroutine:ZP10R	file:
+311	UTSF10.FOR	/^  311 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY, ”YHK–ˆŸ SF31R: ”ATA‹œHAŸ O˜ˆKA'\/$/;"	l	subroutine:UTSF10	file:
+32	ZP10R.FOR	/^   32 CONTINUE$/;"	l	subroutine:ZP10R	file:
+320	UTSF10.FOR	/^  320 PRINT 321$/;"	l	subroutine:UTSF10	file:
+320	specfun.FOR	/^  320       continue$/;"	l	subroutine:rybesl	file:
+321	UTSF10.FOR	/^  321 FORMAT (' ˆ‹ˆOTEKA HˆB– MƒY,O„POƒPAMMA SF32R:”ATA‹œHAŸ O˜ˆKA'$/;"	l	subroutine:UTSF10	file:
+322	UTSF10.FOR	/^  322 PRINT 324$/;"	l	subroutine:UTSF10	file:
+323	UTSF10.FOR	/^  323 PRINT 325$/;"	l	subroutine:UTSF10	file:
+324	UTSF10.FOR	/^  324 FORMAT (' N 1 - ‡HA—EHˆE APƒYMEHTA OTPˆ–ATE‹œHO.')$/;"	l	subroutine:UTSF10	file:
+325	UTSF10.FOR	/^  325 FORMAT (' N 2 - ‡A„AHH›‰ OPŸ„OK C”EPˆ—ECKO‰ ”YHK–ˆˆ',$/;"	l	subroutine:UTSF10	file:
+326	UTSF10.FOR	/^  326 RETURN$/;"	l	subroutine:UTSF10	file:
+33	ZP10R.FOR	/^   33 C=CF1\/CF$/;"	l	subroutine:ZP10R	file:
+330	UTSF10.FOR	/^  330 PRINT 331$/;"	l	subroutine:UTSF10	file:
+331	UTSF10.FOR	/^  331 FORMAT(' ˆ‹ˆOTEKA HˆB– MƒY, ',$/;"	l	subroutine:UTSF10	file:
+332	UTSF10.FOR	/^  332 PRINT 338$/;"	l	subroutine:UTSF10	file:
+333	UTSF10.FOR	/^  333 PRINT 336$/;"	l	subroutine:UTSF10	file:
+334	UTSF10.FOR	/^  334 PRINT 337$/;"	l	subroutine:UTSF10	file:
+335	UTSF10.FOR	/^  335 PRINT 339$/;"	l	subroutine:UTSF10	file:
+336	UTSF10.FOR	/^  336 FORMAT(' N 2 - NMAX (PA‡MEPHOCTœ',$/;"	l	subroutine:UTSF10	file:
+337	UTSF10.FOR	/^  337 FORMAT(' N 3 - ‡HA—EHˆE APƒYME',$/;"	l	subroutine:UTSF10	file:
+338	UTSF10.FOR	/^  338 FORMAT(' N 1 - N (—ˆC‹O ‡HA—EHˆ‰ ',$/;"	l	subroutine:UTSF10	file:
+339	UTSF10.FOR	/^  339 FORMAT(' N 4 - ‡HA—EHˆE ',$/;"	l	subroutine:UTSF10	file:
+34	ZP10R.FOR	/^   34 CONTINUE$/;"	l	subroutine:ZP10R	file:
+340	UTSF10.FOR	/^  340 PRINT 341$/;"	l	subroutine:UTSF10	file:
+341	UTSF10.FOR	/^  341 FORMAT(' ˆ‹ˆ’…Š€ ˆ‚– Œƒ“,„ƒ€ŒŒ€ SFG4R:',$/;"	l	subroutine:UTSF10	file:
+342	UTSF10.FOR	/^  342 GO TO (343,344,345),I$/;"	l	subroutine:UTSF10	file:
+343	UTSF10.FOR	/^  343 PRINT 346$/;"	l	subroutine:UTSF10	file:
+344	UTSF10.FOR	/^  344 PRINT 347$/;"	l	subroutine:UTSF10	file:
+345	UTSF10.FOR	/^  345 PRINT 348$/;"	l	subroutine:UTSF10	file:
+346	UTSF10.FOR	/^  346 FORMAT(' N 1 - ‡€—…ˆ… €ƒ“Œ…’€ X Œ…œ˜… 0, ‡€—…ˆ… ”“Š–ˆˆ',$/;"	l	subroutine:UTSF10	file:
+347	UTSF10.FOR	/^  347 FORMAT(' N 2 - ‡€—…ˆ… €ƒ“Œ…’€ € Œ…œ˜… ˆ‹ˆ €‚ 0, ',$/;"	l	subroutine:UTSF10	file:
+348	UTSF10.FOR	/^  348 FORMAT(' N 3 - ‡€„€… Œ€Š‘ˆŒ€‹œ… Š‹ˆ—…‘’‚ ˆ’…€–ˆ‰',$/;"	l	subroutine:UTSF10	file:
+35	ZP10R.FOR	/^   35 CONTINUE$/;"	l	subroutine:ZP10R	file:
+350	UTSF10.FOR	/^  350 PRINT 351$/;"	l	subroutine:UTSF10	file:
+351	UTSF10.FOR	/^  351 FORMAT(' ˆ‹ˆ’…Š€ ˆ‚– Œƒ“,„ƒ€ŒŒ€ SFG5R:',$/;"	l	subroutine:UTSF10	file:
+352	UTSF10.FOR	/^  352 GO TO (353,354,355),I$/;"	l	subroutine:UTSF10	file:
+353	UTSF10.FOR	/^  353 PRINT 356$/;"	l	subroutine:UTSF10	file:
+354	UTSF10.FOR	/^  354 PRINT 357$/;"	l	subroutine:UTSF10	file:
+355	UTSF10.FOR	/^  355 PRINT 358$/;"	l	subroutine:UTSF10	file:
+356	UTSF10.FOR	/^  356 FORMAT(' N 1 - ‡€—…ˆ… €ƒ“Œ…’€ X Œ…œ˜… 0, ‡€—…ˆ… ”“Š–ˆˆ',$/;"	l	subroutine:UTSF10	file:
+357	UTSF10.FOR	/^  357 FORMAT(' N 2 - ‡€—…ˆ… €ƒ“Œ…’€ A Œ…œ˜… ˆ‹ˆ €‚ 0, ',$/;"	l	subroutine:UTSF10	file:
+358	UTSF10.FOR	/^  358 FORMAT(' N 3 - ‡€„€… Œ€Š‘ˆŒ€‹œ… Š‹ˆ—…‘’‚ ˆ’…€–ˆ‰',$/;"	l	subroutine:UTSF10	file:
+36	ZP10R.FOR	/^   36 CONTINUE$/;"	l	subroutine:ZP10R	file:
+37	ZP10R.FOR	/^   37 R=V\/F$/;"	l	subroutine:ZP10R	file:
+38	ZP10R.FOR	/^   38 DO 39 I=3,N$/;"	l	subroutine:ZP10R	file:
+39	ZP10R.FOR	/^   39 CONTINUE$/;"	l	subroutine:ZP10R	file:
+4	SF24R.FOR	/^    4 Q3=X2*Q2-Q1+C(I)$/;"	l	function:SF24R	file:
+4	SF25R.FOR	/^    4 CONTINUE$/;"	l	function:SF25R	file:
+4	SF33R.FOR	/^    4 N1=NC1$/;"	l	subroutine:SF33R	file:
+4	ZP10R.FOR	/^    4 CONTINUE$/;"	l	subroutine:ZP10R	file:
+4	ZP14C.FOR	/^    4 AR=AR\/SCALE$/;"	l	subroutine:ZP14C	file:
+4	ZP14R.FOR	/^    4 ZS=CMPLX(C0\/B1,ZERO)$/;"	l	subroutine:ZP14R	file:
+40	ZP10R.FOR	/^   40 DO 41 I=2,N$/;"	l	subroutine:ZP10R	file:
+400	specfun.FOR	/^  400 continue$/;"	l	subroutine:machar	file:
+41	ZP10R.FOR	/^   41 CONTINUE$/;"	l	subroutine:ZP10R	file:
+410	specfun.FOR	/^  410 continue$/;"	l	subroutine:machar	file:
+42	ZP10R.FOR	/^   42 CONTINUE$/;"	l	subroutine:ZP10R	file:
+420	specfun.FOR	/^  420   continue$/;"	l	subroutine:rkbesl	file:
+420	specfun.FOR	/^  420 continue$/;"	l	subroutine:machar	file:
+43	ZP10R.FOR	/^   43 CONTINUE$/;"	l	subroutine:ZP10R	file:
+430	specfun.FOR	/^  430 continue$/;"	l	subroutine:machar	file:
+44	ZP10R.FOR	/^   44 CONTINUE$/;"	l	subroutine:ZP10R	file:
+45	ZP10R.FOR	/^   45 NTOM=NP-N+1$/;"	l	subroutine:ZP10R	file:
+450	specfun.FOR	/^  450   continue$/;"	l	subroutine:rybesl	file:
+450	specfun.FOR	/^  450 continue$/;"	l	subroutine:machar	file:
+46	ZP10R.FOR	/^   46 CONTINUE$/;"	l	subroutine:ZP10R	file:
+460	specfun.FOR	/^  460 continue$/;"	l	subroutine:machar	file:
+47	ZP10R.FOR	/^   47 IF(DZNI) 38,40,38$/;"	l	subroutine:ZP10R	file:
+48	ZP10R.FOR	/^   48 CONTINUE$/;"	l	subroutine:ZP10R	file:
+49	ZP10R.FOR	/^   49 C=CSPIR*CMPLX(DZNR,DZNI)$/;"	l	subroutine:ZP10R	file:
+5	SF24R.FOR	/^    5 Q3=X2*Q2-Q1+D(I)$/;"	l	function:SF24R	file:
+5	SF25R.FOR	/^    5 CONTINUE$/;"	l	function:SF25R	file:
+5	SF33R.FOR	/^    5 N2=NC2+1$/;"	l	subroutine:SF33R	file:
+5	ZP10R.FOR	/^    5 DO 6 I=1,NP1$/;"	l	subroutine:ZP10R	file:
+5	ZP14C.FOR	/^    5 ZS=C0\/B0$/;"	l	subroutine:ZP14C	file:
+5	ZP14R.FOR	/^    5 ZL=CMPLX(B1\/A0,ZERO)$/;"	l	subroutine:ZP14R	file:
+5	radbelInput_tet2_kp.doubleQ.f	/^    5  format(5E15.7)$/;"	l	subroutine:radbelInputTet2DstDoubleQ	file:
+50	ZP10R.FOR	/^   50 DZNR=AC(1)$/;"	l	subroutine:ZP10R	file:
+50	specfun.FOR	/^   50 continue$/;"	l	subroutine:dsubn	file:
+500	specfun.FOR	/^  500 continue$/;"	l	subroutine:machar	file:
+51	ZP10R.FOR	/^   51 IERR=68$/;"	l	subroutine:ZP10R	file:
+52	ZP10R.FOR	/^   52 CONTINUE$/;"	l	subroutine:ZP10R	file:
+6	SF24R.FOR	/^    6 RETURN$/;"	l	function:SF24R	file:
+6	SF25R.FOR	/^    6 RETURN$/;"	l	function:SF25R	file:
+6	SF33R.FOR	/^    6 N2=N$/;"	l	subroutine:SF33R	file:
+6	ZP10R.FOR	/^    6 CONTINUE$/;"	l	subroutine:ZP10R	file:
+6	ZP14C.FOR	/^    6 ZL=B0\/A0$/;"	l	subroutine:ZP14C	file:
+6	ZP14R.FOR	/^    6 ROOT1=ZS$/;"	l	subroutine:ZP14R	file:
+6	radbelInput_tet2_kp.doubleQ.f	/^    6  format(308E15.7)$/;"	l	subroutine:radbelInputTet2DstDoubleQ	file:
+60	specfun.FOR	/^   60           continue$/;"	l	subroutine:ribesl	file:
+7	SF33R.FOR	/^    7 IF(X.GE.10.) GO TO 14$/;"	l	subroutine:SF33R	file:
+7	ZP10R.FOR	/^    7 IF(I.EQ.1) GO TO 12$/;"	l	subroutine:ZP10R	file:
+7	ZP14C.FOR	/^    7 ROOT1=ZS$/;"	l	subroutine:ZP14C	file:
+8	SF33R.FOR	/^    8 CONTINUE$/;"	l	subroutine:SF33R	file:
+8	ZP10R.FOR	/^    8 CONTINUE$/;"	l	subroutine:ZP10R	file:
+800	specfun.FOR	/^  800 continue$/;"	l	subroutine:caljy0	file:
+800	specfun.FOR	/^  800 continue$/;"	l	subroutine:caljy1	file:
+9	SF33R.FOR	/^    9 CONTINUE$/;"	l	subroutine:SF33R	file:
+9	ZP10R.FOR	/^    9 N=N1$/;"	l	subroutine:ZP10R	file:
+90	specfun.FOR	/^   90           continue$/;"	l	subroutine:ribesl	file:
+9005	UTSF10.FOR	/^ 9005 RETURN$/;"	l	subroutine:UTSF10	file:
+BESSI	tbessj_f90.FOR	/^      REAL*8  BESSI,/;"	v	program:TBESSJ
+BESSJ	tbessj_f90.FOR	/^      FUNCTION BESSJ /;"	f
+BESSJ0	tbessj_f90.FOR	/^      FUNCTION BESSJ0 /;"	f
+BESSJ1	tbessj_f90.FOR	/^      FUNCTION BESSJ1 /;"	f
+ERF	SF34R.FOR	/^      RECURSIVE REAL FUNCTION ERF(/;"	f
+N	tbessj_f90.FOR	/^      INT/;"	v	program:TBESSJ
+SF24R	SF24R.FOR	/^      REAL FUNCTION SF24R(/;"	f
+SF25R	SF25R.FOR	/^      REAL FUNCTION SF25R(/;"	f
+SF33R	SF33R.FOR	/^      SUBROUTINE SF33R(/;"	s
+TBESSJ	tbessj_f90.FOR	/^      PROGRAM TBESSJ$/;"	p
+UTSF10	UTSF10.FOR	/^      SUBROUTINE UTSF10(/;"	s
+UTZP10	UTZP10.FOR	/^      RECURSIVE SUBROUTINE UTZP10 /;"	s
+X	tbessj_f90.FOR	/^      REAL*8  BESSI, X,/;"	v	program:TBESSJ
+Y	tbessj_f90.FOR	/^      REAL*8  BESSI, X, Y$/;"	v	program:TBESSJ
+ZP10R	ZP10R.FOR	/^      RECURSIVE SUBROUTINE ZP10R(/;"	s
+ZP14C	ZP14C.FOR	/^      RECURSIVE SUBROUTINE ZP14C(/;"	s
+ZP14R	ZP14R.FOR	/^      RECURSIVE SUBROUTINE ZP14R(/;"	s
+alpha	radbelInput_tet2_kp.doubleQ.f	/^      recursive function alpha(/;"	f
+besei0	specfun.FOR	/^      function besei0 /;"	f
+besei1	specfun.FOR	/^      function besei1 /;"	f
+besek0	specfun.FOR	/^      function besek0 /;"	f
+besek1	specfun.FOR	/^      function besek1 /;"	f
+besi0	specfun.FOR	/^      function besi0 /;"	f
+besi1	specfun.FOR	/^      function besi1 /;"	f
+besj0	specfun.FOR	/^      function besj0 /;"	f
+besj1	specfun.FOR	/^      function besj1 /;"	f
+besk0	specfun.FOR	/^      function besk0 /;"	f
+besk1	specfun.FOR	/^      function besk1 /;"	f
+besselJ	besselJ.f	/^      subroutine besselJ(/;"	s
+besselJNew	besselJ_new.f	/^      recursive subroutine besselJNew(/;"	s
+besy0	specfun.FOR	/^      function besy0 /;"	f
+besy1	specfun.FOR	/^      function besy1 /;"	f
+calcei	specfun.FOR	/^      subroutine calcei /;"	s
+calci0	specfun.FOR	/^      subroutine calci0 /;"	s
+calci1	specfun.FOR	/^      subroutine calci1 /;"	s
+calck0	specfun.FOR	/^      subroutine calck0 /;"	s
+calck1	specfun.FOR	/^      subroutine calck1 /;"	s
+calerf	specfun.FOR	/^      subroutine calerf /;"	s
+caljy0	specfun.FOR	/^      subroutine caljy0 /;"	s
+caljy1	specfun.FOR	/^      subroutine caljy1 /;"	s
+daw	specfun.FOR	/^      function daw /;"	f
+dlgama	specfun.FOR	/^      function dlgama /;"	f
+dsubn	specfun.FOR	/^      subroutine dsubn /;"	s
+ei	specfun.FOR	/^      function ei /;"	f
+eone	specfun.FOR	/^      function eone /;"	f
+expei	specfun.FOR	/^      function expei /;"	f
+funN	functionN.f	/^      subroutine funN(/;"	s
+funNMSW	localDMSW.f	/^      subroutine funNMSW(/;"	s
+funNNew	functionNNew.f	/^      subroutine funNNew(/;"	s
+funNOld	functionNold.f	/^      subroutine funNOld(/;"	s
+funNTest	functionNTest.f	/^      subroutine funNTest(/;"	s
+funNTet2	functionNTet2.Fast.f	/^      subroutine funNTet2(/;"	s
+funNTet2	functionNTet2.f	/^      recursive subroutine funNTet2(/;"	s
+funNTet2Lyons	functionNTet2.Lyons.f	/^      subroutine funNTet2Lyons(/;"	s
+funNTet2LyonsTest	functionNTet2.Lyons.Test.f	/^      subroutine funNTet2LyonsTest(/;"	s
+funPhi	functionPhi.f	/^      recursive subroutine funPhi(/;"	s
+funPhiMSW	localDMSW.f	/^      subroutine funPhiMSW(/;"	s
+funQ	functionQ.f	/^      subroutine funQ(/;"	s
+funQMSW	localDMSW.f	/^      subroutine funQMSW(/;"	s
+funQNew	functionQNew.f	/^      recursive subroutine funQNew(/;"	s
+funQOld	functionQOld.f	/^      subroutine funQOld(/;"	s
+getB2Full	localDFull.f	/^      recursive function getB2Full(/;"	f
+getB2MSW	localDMSW.f	/^      function getB2MSW(/;"	f
+getB2Tet22	localDTet2Dst.longTet.New.Fast.f	/^      recursive function getB2Tet22(/;"	f
+getGFull	localDFull.f	/^      recursive subroutine getGFull(/;"	s
+getGMSW	localDMSW.f	/^      subroutine getGMSW(/;"	s
+getGTet22	localDTet2Dst.longTet.New.Fast.f	/^      recursive subroutine getGTet22(/;"	s
+getX	localDMSW.f	/^      function getX(/;"	f
+kw	whistler.kw.f	/^      subroutine kw(/;"	s
+kwFull	whistler.kw.full.f	/^      recursive subroutine kwFull(/;"	s
+kwMSW	localDMSW.f	/^      subroutine kwMSW(/;"	s
+kwNew	whistler.kw.new.f	/^      subroutine kwNew(/;"	s
+kwOld	whistler.kw.old.f	/^      subroutine kwOld(/;"	s
+lambdaMax	radbelInput_tet2_kp.doubleQ.f	/^      subroutine lambdaMax(/;"	s
+localDFull	localDFull.f	/^      recursive subroutine localDFull(/;"	s
+localDMSW	localDMSW.f	/^      subroutine localDMSW(/;"	s
+localDTet2Dst	localDTet2Dst.longTet.New.Fast.f	/^      recursive subroutine localDTet2Dst(/;"	s
+machar	specfun.FOR	/^      subroutine machar /;"	s
+r8_erf	specfun.FOR	/^      function r8_erf /;"	f
+r8_erfc	specfun.FOR	/^      function r8_erfc /;"	f
+r8_erfcx	specfun.FOR	/^      function r8_erfcx /;"	f
+r8_gamma	specfun.FOR	/^      function r8_gamma /;"	f
+r8_psi	specfun.FOR	/^      function r8_psi /;"	f
+radbelInputTet2DstDoubleQ	radbelInput_tet2_kp.doubleQ.f	/^      recursive subroutine radbelInputTet2DstDoubleQ(/;"	s
+ren	specfun.FOR	/^      function ren /;"	f
+ribesl	specfun.FOR	/^      subroutine ribesl /;"	s
+rjbesl	specfun.FOR	/^      recursive subroutine rjbesl /;"	s
+rkbesl	specfun.FOR	/^      subroutine rkbesl /;"	s
+rybesl	specfun.FOR	/^      subroutine rybesl /;"	s
+timestamp	specfun.FOR	/^      subroutine timestamp /;"	s
